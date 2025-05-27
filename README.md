@@ -9,7 +9,6 @@
 - <b>Developed a sales prediction model using logistic regression and decision trees on real-world grocery data. Achieved strong F1 performance through feature engineering, model tuning, and result visualization.</b>
   - [Sumo-Bot](https://github.com/FaarisK/SumoBot)
 - <b>Developed autonomous sumo robot for competitive matches, focusing on optimizing control algorithms, motor efficiency, and sensor integration using ESP32.</b>
-Sleep-study-website-in-progress
   - [Sleep-Study-Website (In Progress)](https://github.com/FaarisK/Sleep-study-website-in-progress)
 - <b>Building a sleep‑study booking site for Pulmonics Plus</b>
 
