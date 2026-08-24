@@ -1,7 +1,6 @@
 <h1 align="center"><b>Hi, I'm Faaris Khan</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=650&height=100&lines=Software+Engineering+Student+%40+UTD;Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Builder;Embedded+Systems+%26+Robotics;Always+Learning+and+Building&speed=60&pause=1200" alt="Typing animation">
   </a>
 </p>
@@ -104,14 +103,6 @@ Technologies: C++, ESP32, Arduino, Embedded Systems, Robotics
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
-
-<br>
-
-Let's Connect!
-
-<a href="https://www.linkedin.com/in/faaris-khan-2919b6259/">LinkedIn</a>
-
-<a href="https://github.com/FaarisK">GitHub</a>
 
 <br>
 
