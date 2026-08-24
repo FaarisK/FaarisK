@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faaris-khan-2919b6259/">LinkedIn</a> •
-  <a href="https://github.com/FaarisK">GitHub</a>
+  <a href="https://www.linkedin.com/in/faaris-khan-2919b6259/" target="_blank"><strong>LinkedIn</strong></a> •
+  <a href="https://github.com/FaarisK" target="_blank"><strong>GitHub</strong></a>
 </p>
 
 <br>
@@ -61,41 +61,41 @@ Git • GitHub • GitHub Actions • Docker • Linux • REST APIs • Raspber
 
 Software Development Projects
 
-Full-Stack Photo-Sharing Application
+<h3><a href="https://github.com/FaarisK/cs4339-project3">Full-Stack Photo-Sharing Application</a></h3>
 
-View Repository →
+<p><a href="https://github.com/FaarisK/cs4339-project3"><strong>View Repository →</strong></a></p>
 
 Developed a full-stack social media application where users can create profiles, upload photos, like posts, and leave comments. Built the frontend with React and Material UI and the backend with Node.js and Express, including session-based authentication, secure password hashing, database integration, and Cloudinary image uploads.
 
 Technologies: React, JavaScript, Material UI, Node.js, Express, Cloudinary
 
-Raspberry Pi Vision-Controlled Robot
+<h3><a href="https://github.com/FaarisK/cs4397-raspbot-rtos">Raspberry Pi Vision-Controlled Robot</a></h3>
 
-View Repository →
+<p><a href="https://github.com/FaarisK/cs4397-raspbot-rtos"><strong>View Repository →</strong></a></p>
 
 Developed a camera-controlled Raspberry Pi robot that detects colored objects and responds with real-time movement behaviors. Implemented computer-vision logic for color detection, object positioning, rotation, strafing, startup actions, and emergency stopping.
 
 Technologies: Python, Raspberry Pi, Computer Vision, RTOS, Robot Control
 
-Company Management Dashboard
+<h3><a href="https://github.com/FaarisK/Relational-Database">Company Management Dashboard</a></h3>
 
-View Repository →
+<p><a href="https://github.com/FaarisK/Relational-Database"><strong>View Repository →</strong></a></p>
 
 Designed and implemented a normalized MySQL database containing more than 20 entities. Created ER/EER diagrams and complex queries involving joins, aggregations, and subqueries, then built a secure Streamlit CRUD dashboard that allows non-technical users to manage company data.
 
 Technologies: MySQL, Python, Streamlit, Database Design
 
-Sales Prediction Model
+<h3><a href="https://github.com/FaarisK/Sales-Prediction-Model">Sales Prediction Model</a></h3>
 
-View Repository →
+<p><a href="https://github.com/FaarisK/Sales-Prediction-Model"><strong>View Repository →</strong></a></p>
 
 Developed a machine-learning model to predict grocery sales using real-world retail data. Applied logistic regression and decision-tree algorithms alongside feature engineering, hyperparameter tuning, model evaluation, and performance visualization.
 
 Technologies: Python, Pandas, Scikit-learn, Machine Learning, Data Visualization
 
-Autonomous Sumo Robot
+<h3><a href="https://github.com/FaarisK/SumoBot">Autonomous Sumo Robot</a></h3>
 
-View Repository →
+<p><a href="https://github.com/FaarisK/SumoBot"><strong>View Repository →</strong></a></p>
 
 Developed an autonomous sumo robot for competitive matches using an ESP32 microcontroller. Integrated line and distance sensors while optimizing movement logic, motor control, opponent detection, pursuit behavior, and ring avoidance.
 
@@ -109,9 +109,9 @@ Technologies: C++, ESP32, Arduino, Embedded Systems, Robotics
 
 Let's Connect!
 
-LinkedIn
+<a href="https://www.linkedin.com/in/faaris-khan-2919b6259/">LinkedIn</a>
 
-GitHub
+<a href="https://github.com/FaarisK">GitHub</a>
 
 <br>
 
