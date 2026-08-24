@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faaris-khan-2919b6259/" target="_blank"><strong>LinkedIn</strong></a> •
-  <a href="https://github.com/FaarisK" target="_blank"><strong>GitHub</strong></a>
 </p>
 
 <br>
